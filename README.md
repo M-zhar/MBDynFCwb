@@ -54,3 +54,4 @@ Here is a list, not in order of importance.
     - [ ] create curves to visualyse node path
 * Testing
     - [ ] Add unit tests
+  -CONTRIBUTING HERE
